@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "ava": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722440410/Avatar%20Basic/eaamgr8jvugku3et13ar.png",
+        "isPremium": false,
+        "price": 0
+    },
+
+    {
+        "id": 2,
+        "ava": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722440409/Avatar%20Basic/qla2aijgp48agae4nbao.png",
+        "isPremium": false,
+        "price": 0
+    },
+
+    {
+        "id": 3,
+        "ava": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722440409/Avatar%20Basic/j9sl1eq4dwpktvplizde.png",
+        "isPremium": false,
+        "price": 0
+    },
+
+    {
+        "id": 4,
+        "ava": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722440408/Avatar%20Basic/ixpi2rej2bap3wmjlsbr.png",
+        "isPremium": false,
+        "price": 0
+    },
+
+    {
+        "id": 5,
+        "ava": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722440408/Avatar%20Basic/glc9ehphnszwd4xz7lal.png",
+        "isPremium": false,
+        "price": 0
+    },
+
+    {
+        "id": 6,
+        "ava": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722440407/Avatar%20Basic/m0hcnsxysbzreaux0jyk.png",
+        "isPremium": false,
+        "price": 0
+    },
+
+    {
+        "id": 7,
+        "ava": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722440407/Avatar%20Basic/mkwl6uygdbecki83g8rh.png",
+        "isPremium": false,
+        "price": 0
+    },
+
+    {
+        "id": 8,
+        "ava": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722440406/Avatar%20Basic/d2wnlj4czt4wnijrzfux.png",
+        "isPremium": false,
+        "price": 0
+    },
+
+    {
+        "id": 9,
+        "ava": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722440406/Avatar%20Basic/ldlxxrwxfsuqjcruzip9.png",
+        "isPremium": false,
+        "price": 0
+    }
+]

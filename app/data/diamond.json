@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "attachment": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722446817/diamond/zlsnpbquy6ztsfr75bcu.png",
+        "value": 100,
+        "price": 10000
+    },
+
+    {
+        "id": 2,
+        "attachment": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722446817/diamond/irqihf3lwblflt8e3xm3.png",
+        "value": 200,
+        "price": 19000
+    },
+
+    {
+        "id": 3,
+        "attachment": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722446817/diamond/dvfyiczgib9wrxrjlbhe.png",
+        "value": 300,
+        "price": 28000
+    },
+
+    {
+        "id": 4,
+        "attachment": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722446817/diamond/hk4wl31wwgjtgbdxsomz.png",
+        "value": 450,
+        "price": 45000
+    },
+
+    {
+        "id": 5,
+        "attachment": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722446817/diamond/fmlhygkz7fsk9iw5z0vc.png",
+        "value": 900,
+        "price": 80000
+    },
+
+    {
+        "id": 6,
+        "attachment": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722446817/diamond/wm36fbpcss0nygetgyiu.png",
+        "value": 1500,
+        "price": 140000
+    }
+]

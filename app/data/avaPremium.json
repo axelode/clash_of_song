@@ -1,0 +1,85 @@
+[
+    {
+        "id": 1,
+        "ava": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722440160/Avatar%20Premium/qk3axwvasemezxh6z2tg.png",
+        "isPremium": true,
+        "price": 50
+    },
+
+    {
+        "id": 2,
+        "ava": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722440160/Avatar%20Premium/nywdtzdgipdqppjorhnv.png",
+        "isPremium": true,
+        "price": 50
+    },
+
+    {
+        "id": 3,
+        "ava": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722440160/Avatar%20Premium/cw0qsy1au7ipfsrxsz2t.png",
+        "isPremium": true,
+        "price": 30
+    },
+
+    {
+        "id": 4,
+        "ava": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722440160/Avatar%20Premium/olunrthqu3lfu7zmy5ep.png",
+        "isPremium": true,
+        "price": 100
+    },
+
+    {
+        "id": 5,
+        "ava": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722440159/Avatar%20Premium/hqx3zhnl0yff6fbicjbm.png",
+        "isPremium": true,
+        "price": 40
+    },
+
+    {
+        "id": 6,
+        "ava": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722440159/Avatar%20Premium/ffcvsqrwejgvirxzmzg3.png",
+        "isPremium": true,
+        "price": 95
+    },
+
+    {
+        "id": 7,
+        "ava": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722440159/Avatar%20Premium/shfcugqcfgt9ncknpzjs.png",
+        "isPremium": true,
+        "price": 70
+    },
+
+    {
+        "id": 8,
+        "ava": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722440158/Avatar%20Premium/twkgq26s8lwmib1ldirc.png",
+        "isPremium": true,
+        "price": 900
+    },
+
+    {
+        "id": 9,
+        "ava": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722440158/Avatar%20Premium/ubaba0yftusw0eu0lisl.png",
+        "isPremium": true,
+        "price": 75
+    },
+
+    {
+        "id": 10,
+        "ava": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722440158/Avatar%20Premium/kitbjyvsy8crux9ubyny.png",
+        "isPremium": true,
+        "price": 30
+    },
+
+    {
+        "id": 11,
+        "ava": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722440158/Avatar%20Premium/ysspabinnwfk3rliijpj.png",
+        "isPremium": true,
+        "price": 30
+    },
+
+    {
+        "id": 12,
+        "ava": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722440157/Avatar%20Premium/exlwdrilqt1uj2b1s0ia.png",
+        "isPremium": true,
+        "price": 1000
+    }
+]

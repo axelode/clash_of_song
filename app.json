@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "test_react_native",
+    "slug": "test_react_native",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722324583/yiywjwrbbmj3lbhzlg9m.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722324583/yiywjwrbbmj3lbhzlg9m.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#5907E6"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722324583/yiywjwrbbmj3lbhzlg9m.png",
+        "backgroundColor": "#5907E6"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1722324583/yiywjwrbbmj3lbhzlg9m.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
